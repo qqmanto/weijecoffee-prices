@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>魏爵咖啡生豆报价单</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1>最新生豆报价</h1>
+  <!-- 数据将通过JavaScript动态加载 -->
+</body>
+</html>
